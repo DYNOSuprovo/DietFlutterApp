@@ -1,0 +1,11 @@
+echo ".dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+android/.gradle/
+android/.idea/
+" > .gitignore
